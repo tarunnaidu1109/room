@@ -5,9 +5,13 @@ Trailblazer Profile:(https://www.salesforce.com/trailblazer/ognhva50enib4iys8f)
 
 Contact
 Email: 218x1a1265@khitguntur.ac.in
+
 Trailhead: (https://www.salesforce.com/trailblazer/ognhva50enib4iys8f)
+
 Technical Skills
+
 Programming Languages: APEX Programming, Java (J2SE)
+
 Declarative Automation Tools: Salesforce Flow Builder.
 Web Technologies: Lightning Web Components (LWC), AURA, Visualforce Pages, HTML, CSS, JavaScript.
 Database: SQL, SOQL and SOSL.
